@@ -2,6 +2,7 @@
 My first experience with animation, both Mocap and manual.
 
 Github does not allow large files to be uploaded very easily, So I put the final animatic in a google drive with a link to it here: https://drive.google.com/file/d/1UWGHgFkBLAY5UOQQEH2ALcq_rRhbBQX7/view?usp=sharing
+I also included the script for the animatic here in the repository.
 
   This project was a difficult one. We faced several tough challenges, the largest being the loss of two group members early on (bringing our group down from 7 to 5). We also lacked group members with adequate experience with 3d art and animation, as we were all technical programmers and 2d artists. Our third biggest hurdle was the loss/disappearance/corruption of several important Motion capture data files, which we were relying on up until that point to subsidize our subpar manpower. I do not know what happened to said files, nor do I believe it was any one person's fault; nevertheless, it set us back.
 
